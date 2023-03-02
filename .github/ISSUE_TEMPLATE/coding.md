@@ -1,12 +1,12 @@
 ---
 name: 画面製造
 about: 画面製造ワークフロー
-title:  "[DATE]: [FEATURE NAME]"
+title:  "【画面製造】○○"
 labels: 'ToDo'
 assignees: 'IES_ishikawa'
 
 ---
-
+## 作業項目
 - [ ] UI作成
 - [ ] バインド作成
 - [ ] ストア作成
