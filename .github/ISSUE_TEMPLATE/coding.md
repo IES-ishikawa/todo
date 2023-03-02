@@ -2,7 +2,7 @@
 name: 画面製造
 about: 画面製造ワークフロー
 title:  "【画面製造】○○"
-labels: 'ToDo'
+labels: '製造'
 assignees: 'IES_ishikawa'
 
 ---
