@@ -1,6 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Add new ToDo
+  - name: 画面製造
     about: made by config.yml
-    # edit {username} and {repo} for your environment
-    url: https://github.com/IES_ishikawa/todo/issues/new?template=custom.md&projects=IES_ishikawa%2FToDo%2F1&labels=ToDo
+    url: https://github.com/IES_ishikawa/todo/issues/new?template=coding.md
