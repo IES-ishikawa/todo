@@ -1,9 +1,9 @@
+---
 name: 画面製造
 about: 画面製造ワークフロー
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
 assignees: 'IES_ishikawa'
-
 
 ---
 
