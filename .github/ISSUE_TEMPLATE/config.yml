@@ -1,5 +1,2 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 画面製造
-    about: made by config.yml
-    url: https://github.com/IES-ishikawa/todo/issues/new?template=coding.md&projects=IES-ishikawa%2F2&labels=Todo
