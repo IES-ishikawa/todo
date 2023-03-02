@@ -3,7 +3,6 @@ name: 画面製造
 about: 画面製造ワークフロー
 title:  "【画面製造】○○"
 labels: '製造'
-projects: 'IES-ishikawa/todo'
 assignees: 'IES-ishikawa'
 
 ---
